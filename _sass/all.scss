@@ -17,7 +17,7 @@
 }
 
 @media only screen and (max-width: 1000px) {
-  .card-container {
+  .card-container { 
     grid-template-columns: repeat(2, 1fr);
   }
 }
@@ -51,7 +51,7 @@ h2 {
     flex-direction: row;
     align-items: center;
     margin: 20px 30px;
-    background-color: white;
+    background-color: lightgray;
     border-radius: .375rem;
     padding: 1.5em;
     font-size: 1.2em;
