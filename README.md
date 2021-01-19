@@ -28,10 +28,10 @@ layout: page
 `projects.yml` with the `page-name` field.
 
 ```yaml
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3 - Batch 1
-  date: Fall 2020
-  page-name: sprint1
+- title: Portfolio Building & Updating
+  event: MLH Local Hack Day: Build
+  date: Winter 2021
+  page-name: testerPage1
 ```
 
 ## Development
