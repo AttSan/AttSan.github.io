@@ -26,6 +26,7 @@ h3
 {
     color: #280136;
 }
+
 .nav_bar, .nav_bar a
 {
     position: relative;
@@ -128,6 +129,37 @@ h3
     border-top: #280136 double 2px;
 }
 
+/* for other pages*/
+.education-tab, .contact-tab, .projects
+{
+    background-color: lightgrey;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 1.5%;
+    margin-bottom: 10px;
+
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.contact-tab a
+{
+    color: #280136;
+}
+
+.tab img
+{
+    background-color: none;
+    display: table-column;
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    left: 20%;
+}
+/* for other pages*/
+
 footer
 {
     background-color: #280136;
@@ -137,7 +169,7 @@ footer
     bottom: 0;
     height: 60px;
     padding-top: 10px;
-    padding-bottom: 5px;
+    padding-bottom: 5px; /*optional for other pages*/
     text-decoration: none;    
     position: relative;
 }
