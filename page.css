@@ -31,6 +31,8 @@ h3
 {
     position: relative;
     margin-top: 0px;
+    margin-left: 0;
+    margin-right: 0;
     height: 30px;
     padding-right: 10px;
     padding-top: 5px;
@@ -58,6 +60,8 @@ h3
     color: #FBF0FF;
     height: 100px;
     margin-top: -20px;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .lower-nav-bar
@@ -172,6 +176,8 @@ footer
     padding-bottom: 5px; /*optional for other pages*/
     text-decoration: none;    
     position: relative;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 /*
