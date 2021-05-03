@@ -29,7 +29,7 @@ h3
 
 .nav_bar, .nav_bar a
 {
-    position: fixed;
+    position: relative;
     margin-top: 0px;
     height: 30px;
     padding-right: 10px;
