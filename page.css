@@ -22,7 +22,7 @@ a
     color: #FCDDEC;
 }
 
-h3
+h2, h3, h4
 {
     color: #280136;
 }
@@ -134,7 +134,7 @@ h3
 }
 
 /* for other pages*/
-.education-tab, .contact-tab, .projects
+.tab, .tab, .projects
 {
     background-color: lightgrey;
     margin-right: 10%;
@@ -151,6 +151,7 @@ h3
 .contact-tab a
 {
     color: #280136;
+    text-align: center;
 }
 
 .tab img
