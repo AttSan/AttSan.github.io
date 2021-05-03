@@ -22,7 +22,7 @@ a
     color: #FCDDEC;
 }
 
-h3, h4, h4 a
+h3, h4
 {
     color: #280136;
 }
@@ -134,7 +134,7 @@ h3, h4, h4 a
 }
 
 /* for other pages*/
-.tab, .tab, .projects
+.tab, .projects
 {
     background-color: lightgrey;
     margin-right: 10%;
