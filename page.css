@@ -162,6 +162,13 @@ h3
     position: absolute;
     left: 20%;
 }
+
+table
+{
+    border: none;
+    text-align: center;
+    width: 85%;
+}
 /* for other pages*/
 
 footer
