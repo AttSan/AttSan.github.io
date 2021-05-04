@@ -144,7 +144,7 @@ h3, h4, h4 a, .tabs a, i
     margin-right: 10%;
     margin-left: 10%;
     margin-top: 1.5%;
-    margin-bottom: 10px;
+    margin-bottom: 5%;
 
     padding-right: 5%;
     padding-left: 5%;
@@ -178,13 +178,13 @@ footer
     position: relative;
     margin-left: 0;
     margin-right: 0;
-}
+}*/
 
 footer a
 {
     color: #FCDDEC;
 }
-*/
+
 
 /*
 The CSS margin property defines space from edge of screen to border
