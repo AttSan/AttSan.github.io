@@ -173,7 +173,7 @@ footer
     bottom: 0;
     height: 60px;
     padding-top: 10px;
-    padding-bottom: 2%; /*optional for other pages*/
+    padding-bottom: 5px; /*optional for other pages*/
     text-decoration: none;    
     position: relative;
     margin-left: 0;
