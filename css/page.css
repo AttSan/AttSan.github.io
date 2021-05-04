@@ -100,7 +100,7 @@ h3, h4, h4 a, .tabs a, i
     padding-left: 5%;
     padding-bottom: 5px;
     padding-top: 5px;
-    
+    text-align: center;
 }
 
 .left-panel
@@ -150,6 +150,7 @@ h3, h4, h4 a, .tabs a, i
     padding-left: 5%;
     padding-bottom: 5px;
     padding-top: 5px;
+    text-align: center;
 }
 
 .tab img
