@@ -16,7 +16,7 @@ html
 { 0% {background-color: #610085; left: 0px; top: 0px;} 20% {background-color: #8734a5; left: 0px; top: 100px;}
     40% {background-color: #9c62b1; left: 0px; top: 200px;} 60% {background-color: #ac8bb8; left: 0px; top: 300px;}
     80% {background-color: #cbbfcf; left: 0px; top: 400px;} 100% {background-color: white; left: 0px; top: 500px;} }*/
-a
+.nav_bar a, footer a
 {
     text-decoration: none;
     color: #FCDDEC;
@@ -178,10 +178,6 @@ footer
     position: relative;
     margin-left: 0;
     margin-right: 0;
-}
-footer a
-{
-    color: #FCDDEC;
 }
 
 /*
