@@ -106,7 +106,7 @@ h3, h4, h4 a, .tabs a, i
 .left-panel
 {
     float: left;
-    width: 65%;
+    width: auto;
     height: auto;
     padding-right: 5px;
 }
@@ -114,7 +114,7 @@ h3, h4, h4 a, .tabs a, i
 .right-panel
 {
     float: right;
-    width: 30%;
+    width: auto;
     height: auto;
     padding-left: 3px;
 }
