@@ -75,6 +75,7 @@ h3, h4, h4 a, .tabs a, i
     height: 40px;
     display: inline-block;
     width: auto;
+    border: #9C1E88 solid 1px;
 }
 
 .lower-nav-bar a
@@ -87,7 +88,7 @@ h3, h4, h4 a, .tabs a, i
 .tabs
 {
     color: #9C1E88;
-    border: #280136 solid 1px;
+    border: #9C1E88 solid 1px;
     background-color: lightgrey;
     margin-right: 10%;
     margin-left: 10%;
