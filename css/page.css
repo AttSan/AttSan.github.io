@@ -162,7 +162,7 @@ h3, h4, h4 a, .tabs a, i
 }
 /* for other pages*/
 
-footer, footer a
+footer
 {
     background-color: #280136;
     color: #FCDDEC;
@@ -176,6 +176,10 @@ footer, footer a
     position: relative;
     margin-left: 0;
     margin-right: 0;
+}
+footer a
+{
+    background-color: #FCDDEC;
 }
 
 /*
