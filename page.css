@@ -87,7 +87,7 @@ h3, h4, h4 a, .tabs a, i
 .tabs
 {
     color: #9C1E88;
-    border: #280136 solid 2px;
+    border: #280136 double 1px;
     background-color: lightgrey;
     margin-right: 10%;
     margin-left: 10%;
@@ -139,6 +139,7 @@ h3, h4, h4 a, .tabs a, i
 {
     color: #9C1E88;
     background-color: lightgrey;
+    border: green solid 5px;
     margin-right: 10%;
     margin-left: 10%;
     margin-top: 1.5%;
