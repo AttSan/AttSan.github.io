@@ -22,12 +22,17 @@ html
     color: #FCDDEC;
 }
 
+a
+{
+    text-decoration: none;
+}
+
 h3, h4, h4 a, .tabs a, i
 {
     color: #280136;
 }
 
-.nav_bar, .nav_bar a
+.nav_bar
 {
     position: relative;
     margin-top: 0;
