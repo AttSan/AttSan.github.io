@@ -7,6 +7,18 @@ html
     margin-top: 0;
     background-color:#FBF0FF;
     color: #280136;
+    text-decoration: none;
+}
+
+a
+{
+    font-size: medium;
+}
+
+.nav-bar
+{
+    background-color: #280136;
+    margin: none;
 }
 
 /*.box-art { position: relative; height: 100px; width: 100px; border: solid #610085 3px; background-color: #610085; 
