@@ -166,10 +166,10 @@ h3, h4, h4 a, .tabs a, i
 
 footer
 {
+    position: relative;
     background-color: #280136;
     color: #FCDDEC;
     text-align: center;
-    text-decoration: none;
     bottom: 0;
     height: 60px;
     padding-top: 10px;
