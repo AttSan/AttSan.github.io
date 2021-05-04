@@ -134,8 +134,9 @@ h3, h4, h4 a, .tabs a, i
 }
 
 /* for other pages*/
-.tab, .projects
+.tab
 {
+    color: #9C1E88;
     background-color: lightgrey;
     margin-right: 10%;
     margin-left: 10%;
@@ -148,12 +149,6 @@ h3, h4, h4 a, .tabs a, i
     padding-top: 5px;
 }
 
-.contact-tab a
-{
-    color: #280136;
-    text-align: center;
-}
-
 .tab img
 {
     background-color: none;
@@ -162,13 +157,6 @@ h3, h4, h4 a, .tabs a, i
     height: 60px;
     position: absolute;
     left: 20%;
-}
-
-table
-{
-    border: none;
-    text-align: center;
-    width: 85%;
 }
 /* for other pages*/
 
