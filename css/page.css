@@ -163,7 +163,7 @@ h3, h4, h4 a, .tabs a, i
     left: 20%;
 }
 /* for other pages*/
-
+/*
 footer
 {
     position: relative;
@@ -173,7 +173,7 @@ footer
     bottom: 0;
     height: 60px;
     padding-top: 10px;
-    padding-bottom: 5px; /*optional for other pages*/
+    padding-bottom: 5px; /*optional for other pages
     text-decoration: none;    
     position: relative;
     margin-left: 0;
@@ -184,6 +184,7 @@ footer a
 {
     color: #FCDDEC;
 }
+*/
 
 /*
 The CSS margin property defines space from edge of screen to border
