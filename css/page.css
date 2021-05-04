@@ -30,7 +30,7 @@ h3, h4, h4 a, .tabs a, i
 .nav_bar, .nav_bar a
 {
     position: relative;
-    margin-top: 0px;
+    margin-top: 0;
     margin-left: 0;
     margin-right: 0;
     height: 30px;
@@ -41,6 +41,7 @@ h3, h4, h4 a, .tabs a, i
     font-size: 14px;
     background-color:#280136;
     color: #FBF0FF;
+    overflow: hidden;
 }
 
 .details img 
