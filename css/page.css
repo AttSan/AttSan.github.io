@@ -69,6 +69,7 @@ a{  text-decoration: none;  }
 {
     float: left;
     padding-top: 10px;
+    color: #280136;
 }
 
 .tabs
@@ -84,11 +85,14 @@ a{  text-decoration: none;  }
 
     padding-right: 5%;
     padding-left: 5%;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     padding-top: 5px;
 }
 
 .tabs h3 {  color: #280136;    }
+
+.tabs a, .tabs i
+{   color: #5e0080;    }
 
 .left-panel
 {
@@ -117,8 +121,47 @@ a{  text-decoration: none;  }
 }
 
 .fun-q
-{   margin-top: 15%;
-    border-top: #280136 3px double;    }
+{   
+    margin-top: 15%;
+    border-top: #280136 3px double;    
+}
+
+.edu-panel img
+{
+    width: 30%;
+    height: auto;
+    float: left;
+    margin: 2px;
+    padding-left: 100px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+.edu-panel
+{
+    width: 70%;
+    margin-top: 5%;
+    padding-left: 100px;
+    text-align: left;
+}
+
+.exp-panel img
+{
+    width: 30%;
+    height: 80px;
+    float: left;
+    margin: 2px;
+    padding-left: 100px;
+    padding-right: 10px;
+}
+
+.exp-panel
+{
+    width: 70%;
+    margin-top: 5%;
+    padding-left: 100px;
+    text-align: left;
+}
 
 footer
 {
