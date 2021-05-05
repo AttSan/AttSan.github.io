@@ -89,7 +89,7 @@ a{  text-decoration: none;  }
     padding-top: 5px;
 }
 
-.tabs h3 {  color: #280136;    }
+.tabs h3 {  color: #280136; text-align: center; }
 
 .tabs a, .tabs i
 {   color: #5e0080;    }
@@ -131,36 +131,41 @@ a{  text-decoration: none;  }
     width: 30%;
     height: auto;
     float: left;
-    margin: 2px;
-    padding-left: 100px;
-    padding-right: 10px;
-    padding-bottom: 5px;
 }
 
 .edu-panel
 {
     width: 70%;
     margin-top: 5%;
-    padding-left: 100px;
-    text-align: left;
+    margin: 0 auto;
 }
 
 .exp-panel img
 {
     width: 30%;
-    height: 80px;
+    height: auto;
     float: left;
-    margin: 2px;
-    padding-left: 100px;
-    padding-right: 10px;
 }
 
 .exp-panel
 {
     width: 70%;
     margin-top: 5%;
-    padding-left: 100px;
-    text-align: left;
+    margin: 0 auto;
+}
+
+.proj-panel img
+{
+    width: 30%;
+    height: auto;
+    float: left;
+}
+
+.proj-panel
+{
+    width: 70%;
+    margin-top: 5%;
+    margin: 0 auto;
 }
 
 footer
