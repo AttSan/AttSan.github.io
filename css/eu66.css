@@ -31,7 +31,7 @@ html
     padding-right: 15px;
 }
 
-.contentDiv
+.container
 {
     color: darkblue;
     text-align: left;
@@ -43,7 +43,7 @@ footer
 {
     background-color: darkblue;
     color: lightblue;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
     margin-bottom: 0;
