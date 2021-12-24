@@ -54,7 +54,7 @@ footer
 {
     background-color: darkblue;
     color: rgb(217, 243, 252);
-    position: absolute;
+    position: fixed;
     padding: 1%;
     left: 0;
     right: 0;
