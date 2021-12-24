@@ -1,6 +1,6 @@
 html
 {
-    background-color: lightblue;
+    background-color: rgb(217, 243, 252);
     margin: 1%;
     padding: 1%;
     color: darkblue;
@@ -18,7 +18,7 @@ html
 {
     position: relative;
     background-color: darkblue;
-    color: lightblue;
+    color: rgb(217, 243, 252);
     height: 5%;
     width: auto;
     text-align: center;
@@ -28,7 +28,7 @@ html
 
 .nav_bar a
 {
-    color:lightblue;
+    color:rgb(217, 243, 252);
     text-align: center;
     padding-bottom: 5px;
     padding-top: 15px;
@@ -46,7 +46,7 @@ html
 footer
 {
     background-color: darkblue;
-    color: lightblue;
+    color: rgb(217, 243, 252);
     position: absolute;
     padding: 1%;
     left: 0;
@@ -59,5 +59,5 @@ footer
 
 footer a
 { 
-    color: lightblue;
+    color: rgb(217, 243, 252);
 }
