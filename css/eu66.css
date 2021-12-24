@@ -28,7 +28,7 @@ html
 
 .nav_bar a
 {
-    color: darkblue;
+    color:lightblue;
     text-align: center;
     padding-bottom: 5px;
     padding-top: 15px;
@@ -41,8 +41,6 @@ html
     text-align: left;
     padding: 2%;
     margin: 2%;
-    border-color: black;
-    border-style: solid;
 }
 
 footer
