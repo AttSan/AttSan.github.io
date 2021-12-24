@@ -30,3 +30,24 @@ html, body
     padding-top: 15px;
     padding-right: 15px;
 }
+
+.contentDiv
+{
+    color: darkblue;
+    text-align: left;
+    padding: 2%;
+    margin: 2%;
+}
+
+footer
+{
+    background-color: darkblue;
+    color: lightblue;
+    height: 10%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a{ color: lightblue; }
