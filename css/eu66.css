@@ -35,7 +35,7 @@ html
     padding-right: 15px;
 }
 
-.container
+.container, .contact
 {
     color: darkblue;
     text-align: left;
