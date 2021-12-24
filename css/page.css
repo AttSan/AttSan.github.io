@@ -140,28 +140,14 @@ a{  text-decoration: none;  }
     margin: 0 auto;
 }
 
-.exp-panel img
+.exp-panel img, .proj-panel img
 {
     width: 30%;
     height: auto;
     float: left;
 }
 
-.exp-panel
-{
-    width: 70%;
-    margin-top: 5%;
-    margin: 0 auto;
-}
-
-.proj-panel img
-{
-    width: 30%;
-    height: auto;
-    float: left;
-}
-
-.proj-panel
+.exp-panel, .proj-panel
 {
     width: 70%;
     margin-top: 5%;
