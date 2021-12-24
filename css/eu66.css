@@ -45,8 +45,9 @@ footer
     background-color: darkblue;
     color: lightblue;
     position: absolute;
-    padding: 0.2%;
-    left: -50px;
+    padding: 1%;
+    left: 0;
+    right: 0;
     bottom: 0;
     width: 100%;
     margin-bottom: 0;
