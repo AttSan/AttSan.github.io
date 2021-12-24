@@ -38,9 +38,16 @@ html
 .container, .contact
 {
     color: darkblue;
-    text-align: left;
+    text-align: center;
     padding: 2%;
     margin: 2%;
+}
+
+img
+{
+    align-items: center;
+    height: 100px;
+    width: 100px;
 }
 
 footer
