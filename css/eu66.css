@@ -47,12 +47,14 @@ html
 {
     float: left;
     width: 50%;
+    margin: 2px;
 }
 
 .right_panel
 {
     float: right;
     width: 50%;
+    overflow: hidden;
 }
 
 img
