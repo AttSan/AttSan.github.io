@@ -43,6 +43,18 @@ html
     margin: 2%;
 }
 
+.left_panel
+{
+    float: left;
+    width: 50%;
+}
+
+.right_panel
+{
+    float: right;
+    width: 50%;
+}
+
 img
 {
     align-items: center;
