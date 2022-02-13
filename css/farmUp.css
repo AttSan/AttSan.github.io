@@ -35,9 +35,7 @@ a{  text-decoration: none;  }
 
 .logo
 {
-    overflow: hidden;
-    width: 400px;
-    height: 50px;
+    height: 40px;
 }
 
 .nav-bar input[type=text]
