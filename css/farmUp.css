@@ -36,6 +36,8 @@ a{  text-decoration: none;  }
 .logo
 {
     overflow: hidden;
+    width: 400px;
+    height: 150px;
 }
 
 .details
