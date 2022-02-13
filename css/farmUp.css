@@ -33,6 +33,11 @@ a{  text-decoration: none;  }
     padding-right: 15px;
 }
 
+.logo
+{
+    overflow: hidden;
+}
+
 .details
 {
     background-image: linear-gradient(#280136, #5e0080);
