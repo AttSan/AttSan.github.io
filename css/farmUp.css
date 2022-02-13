@@ -89,6 +89,11 @@ a{  text-decoration: none;  }
     padding-top: 5px;
 }
 
+.content img
+{
+    float: right;
+}
+
 .tabs h3 {  color: #280136; text-align: center; }
 
 .tabs a, .tabs i
