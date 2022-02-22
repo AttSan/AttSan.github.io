@@ -133,7 +133,7 @@ a{  text-decoration: none;  }
     float: left;
 }
 
-.edu-panel
+.edu-panel, .exp-panel, .proj-panel
 {
     width: 70%;
     margin-top: 5%;
@@ -145,13 +145,6 @@ a{  text-decoration: none;  }
     width: 30%;
     height: auto;
     float: left;
-}
-
-.exp-panel, .proj-panel
-{
-    width: 70%;
-    margin-top: 5%;
-    margin: 0 auto;
 }
 
 footer
