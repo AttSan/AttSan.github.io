@@ -147,6 +147,15 @@ a{  text-decoration: none;  }
     float: left;
 }
 
+.prints { display: flex; }
+  
+.column 
+{
+    flex: 33.33%;
+    padding: 5px;
+    border-radius: 50%;
+}
+
 footer
 {
     background-color: #280136;
