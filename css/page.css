@@ -151,7 +151,7 @@ a{  text-decoration: none;  }
   
 .column 
 {
-    /* flex: 30%; */
+    flex: 30%;
     padding: 5px;
 }
 
@@ -179,9 +179,9 @@ footer a{ color: #FBF0FF; }
     40% {background-color: #9c62b1; left: 0px; top: 200px;} 60% {background-color: #ac8bb8; left: 0px; top: 300px;}
     80% {background-color: #cbbfcf; left: 0px; top: 400px;} 100% {background-color: white; left: 0px; top: 500px;} }
 
-The CSS margin property defines space from edge of screen to border
-The CSS border property defines a border around an HTML element b/w margin & padding
-The CSS padding property defines space between the text content and the border.
+margin defines space from edge of screen to border
+border defines a border around an HTML element b/w margin & padding
+padding defines space between the text content and the border.
 class = .
 id = #
 */
